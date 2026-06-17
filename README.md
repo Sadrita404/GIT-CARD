@@ -9,20 +9,19 @@
   </table>
 </div>
 
----
 
 | Title | Git Card |
 | :-- | :---|
 |Author |Sadrita Neogi|
 
----
+
 
 
 ### About
 
 It's an portable PCB Business card for me..
 
----
+
 <div align="center">
   <h2> Layout Sketch </h2>
   <p>Rough Layout For The PCB.</p>
@@ -43,7 +42,7 @@ It's an portable PCB Business card for me..
   </table>
 </div>
 
----
+
 
 <div id="-screenshots" align="center">
   <h3>PCB Design Overview</h3>
@@ -68,7 +67,7 @@ It's an portable PCB Business card for me..
   </table>
 </div>
 
----
+
 
 <!-- FRONT & BACK VIEW SHOWCASE -->
 <div align="center">
