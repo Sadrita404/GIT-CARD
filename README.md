@@ -82,7 +82,7 @@ It's an portable PCB Business card for me..
     <tr>
       <!-- FRONT SIDE CARD -->
       <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/10ecbbe8-2d43-429c-984c-00f039e4fbe6" width="100%" alt="Front Side View" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/a98396b6-fe4a-43af-a53f-445c65dc3fac" width="100%" alt="Front Side View" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
           ▲ Front Side View
         </div>
@@ -91,14 +91,15 @@ It's an portable PCB Business card for me..
       <td width="2%">&nbsp;</td>
       <!-- BACK SIDE CARD -->
       <td align="center" valign="top" width="50%" style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <img src="https://github.com/user-attachments/assets/324261b9-698a-494f-8f80-120542aeae70" width="100%" alt="Back Side View" style="border-radius: 6px;" />
+        <img src="https://github.com/user-attachments/assets/83a10ccf-b448-4e26-9472-fdb017ebe74d" width="100%" alt="Back Side View" style="border-radius: 6px;" />
         <div style="margin-top: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #57606a; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;">
-          ▼ Back Side View
+          ▲ Back Side View
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
@@ -109,6 +110,7 @@ It's an portable PCB Business card for me..
 | Component Name | Purpose | Qty | Unit Price | Total Price in USD | Link |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **PCB** | The Main Board	 | 5 | $5 | $5 | [Link](https://jlcpcb.com/) |
+| **NFC Tag** | The Main Board	 | 5 | $3.18 | $3.18 | [Link](https://www.amazon.in/gp/product/B0DMBYL1TN/ref=ox_sc_act_title_1?smid=AJ9A5LMR0WW31&psc=1) |
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; max-width: 600px;">
@@ -120,11 +122,11 @@ It's an portable PCB Business card for me..
         <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
           <tr>
             <td style="padding: 4px 0;">Component Subtotal:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$5</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$8.18</td>
           </tr>
           <tr>
             <td style="padding: 4px 0;">Shipping Cost:</td>
-            <td align="right" style="font-weight: 500; color: #24292f;">$10.90</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$11</td>
           </tr>
           <tr>
             <td style="padding: 4px 0; padding-bottom: 8px;">Tax / VAT:</td>
@@ -132,11 +134,11 @@ It's an portable PCB Business card for me..
           </tr>
           <tr style="border-top: 1px dashed #d0d7de;">
             <td style="padding: 12px 0 0 0; font-weight: 600; color: #24292f; font-size: 15px;">Net Total Cost:</td>
-            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$17.90</td>
+            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$21.18</td>
           </tr>
           <tr>
             <td style="padding: 2px 0 0 0; font-size: 11px; color: #8c959f;">Projected Budget Allocation:</td>
-            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$18</td>
+            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$22</td>
           </tr>
         </table>
       </td>
