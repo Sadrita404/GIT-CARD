@@ -20,7 +20,9 @@
 ### About
 
 It's an portable PCB Business card for me..
+### NFC Working
 
+Since my phone does not have any NFC feature, so I will use NFC sticker and stick it on the PCB where I left and cut out for that and empty space so I will paste the NFC tag on the PCB and if something goes wrong, I can easily change that and I have an NFC writer, so I can easily edit the NFC tag
 
 <div align="center">
   <h2> Layout Sketch </h2>
